@@ -5,5 +5,5 @@ cd build/bin
   --sepolia \
   --syncmode snap \
   --datadir ./sepolia_node \
-  --beacon.api https://sepolia.lightclient.xyz \
+  --beacon.api https://sepolia.lightclient.in \
   --beacon.checkpoint 0xd1f4d00ab92951aacc7caa6581b7829895670b4abdcfc21ba21855c148043689
